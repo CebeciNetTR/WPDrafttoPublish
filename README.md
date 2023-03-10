@@ -15,3 +15,6 @@ Set the desired time period from your cronjob field and add the above code to th
 
 Now you are ready, your 100s of draft content will be published randomly and automatically in the time interval you set.
 
+My home page: https://cebeci.net.tr/
+
+Blog: https://howmake.net/how-to-auto-publish-draft-post-in-wordpress-without-plugin/
