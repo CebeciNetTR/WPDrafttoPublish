@@ -1,6 +1,7 @@
 # WPDrafttoPublish
 Wordpress draft post to be published randomly whitout plugin and wp cron.
-
+It allows you to publish your draft posts randomly, without plugins and scheduled tasks for your wordpress sites.
+Install
 Push to cron.php file wordpress home directory .
 Go To Your hosting control panel > cron jobs 
 Add a cronjob = wget -q --spider https://yourwordpress.com/cron.php?run=112 >/dev/null 2>&1	 // 112 optional your cron file $safeurl 
