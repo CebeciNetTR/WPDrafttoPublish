@@ -1,4 +1,4 @@
-# WPDrafttoPublish
+# WP Draft to Publish
 Wordpress draft post to be published randomly whitout plugin and wp cron.
 
 It allows you to publish your draft posts randomly, without plugins and scheduled tasks for your wordpress sites.
